@@ -14,6 +14,7 @@
 		8629DE06242BCFEB0008D184 /* Bitcoin_Project.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8629DE04242BCFEB0008D184 /* Bitcoin_Project.xcdatamodeld */; };
 		8629DE08242BCFEF0008D184 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8629DE07242BCFEF0008D184 /* Assets.xcassets */; };
 		8629DE0B242BCFEF0008D184 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8629DE09242BCFEF0008D184 /* LaunchScreen.storyboard */; };
+		8629DE13242BE23B0008D184 /* bitcoin_logo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8629DE12242BE23B0008D184 /* bitcoin_logo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8629DE07242BCFEF0008D184 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8629DE0A242BCFEF0008D184 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8629DE0C242BCFEF0008D184 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8629DE12242BE23B0008D184 /* bitcoin_logo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bitcoin_logo.jpg; path = ../../../Downloads/bitcoin_logo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				8629DDFD242BCFEB0008D184 /* SceneDelegate.swift */,
 				8629DDFF242BCFEB0008D184 /* ViewController.swift */,
 				8629DE01242BCFEB0008D184 /* Main.storyboard */,
+				8629DE12242BE23B0008D184 /* bitcoin_logo.jpg */,
 				8629DE07242BCFEF0008D184 /* Assets.xcassets */,
 				8629DE09242BCFEF0008D184 /* LaunchScreen.storyboard */,
 				8629DE0C242BCFEF0008D184 /* Info.plist */,
@@ -130,6 +133,7 @@
 				8629DE0B242BCFEF0008D184 /* LaunchScreen.storyboard in Resources */,
 				8629DE08242BCFEF0008D184 /* Assets.xcassets in Resources */,
 				8629DE03242BCFEB0008D184 /* Main.storyboard in Resources */,
+				8629DE13242BE23B0008D184 /* bitcoin_logo.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
